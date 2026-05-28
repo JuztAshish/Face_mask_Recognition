@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+
+# Data and outputs
+dataset/
+model/
+Output/
+
+# Logs and runtime files
+*.log
+
+# Nested repository
+Face_mask_Recognition/
+
+# IDE settings
+.vscode/
+.idea/
